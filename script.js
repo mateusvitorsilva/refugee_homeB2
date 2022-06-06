@@ -17,7 +17,7 @@ form.addEventListener("submit", () => {
     alert("Acesso negado")
   }
   else {
-    location.href = "http://127.0.0.1:5500/anfitriahome.html";
+    location.href = "https://mateusvitorsilva.github.io/anfitriahome.html";
     alert("Bem vindo ao Refugee Home.")
 
   }
