@@ -17,7 +17,7 @@ form.addEventListener("submit", () => {
     alert("Acesso negado")
   }
   else {
-    location.href = "https://mateusvitorsilva.github.io/anfitriahome/";
+    location.href = "https://mateusvitorsilva.github.io/Anfitri--home-b2/anfitriahome.html";
     alert("Bem vindo ao Refugee Home.")
 
   }
