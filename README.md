@@ -13,8 +13,8 @@ else if (emailInput.value !== email || senhaInput.value !== senha) : Nessa estrt
 o valor(tamanho) da variável "emailInput" e "senhaInput" forem diferentes respectivamente ao valor da variável "email" e "senha",
 irá soltar um alert com a mensagem: "Acesso Negado"
 
-else: Caso passar por todas as condições anteriores e o resultado for falso, irá redirecionar para página de home por meio
-do location.href  e irá soltar um alert com a mensagem: "Bem vindo ao Refugee Home."
+else: Caso passar por todas as condições anteriores e o resultado for falso, irá soltar um alert com a mensagem: "Bem vindo ao Refugee
+Home."
 
 function onClickCad(): Caso a pessoa clique no "Cadastra-se", essa função irá soltar um alert com a mensagem: 
 "Acesse refugee.com.br/cadastro para saber mais." 
