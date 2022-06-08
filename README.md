@@ -17,11 +17,11 @@ else if (senhaInput.value.length == 0): Nessa estrtura de seleção(else if) oco
 "senhaInput" for igual 0, irá soltar um alert com a mensagem: "Digite a Senha".
 
 else if (emailInput.value !== email || senhaInput.value !== senha) : Nessa estrtura de seleção(else if) ocorre a validação se 
-o valor(tamanho) da variável "emailInput" e "senhaInput" forem diferentes respectivamente ao valor da variável "email" e "senha",
+o valor da variável "emailInput" e "senhaInput" forem diferentes respectivamente ao valor da variável "email" e "senha",
 irá soltar um alert com a mensagem: "Acesso Negado"
 
 else: Caso passar por todas as condições anteriores e o resultado for falso, irá soltar um alert com a mensagem: "Bem vindo ao Refugee
-Home."
+Home." 
 
 function onClickCad(): Caso a pessoa clique no "Cadastra-se", essa função irá soltar um alert com a mensagem: 
 "Acesse refugee.com.br/cadastro para saber mais." 
