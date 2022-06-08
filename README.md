@@ -1,5 +1,11 @@
 Site Refugee Home - Trabalho Ricardo 08/06 - Universidade Vila Velha ES
 
+var email = "refugeeanfitrian@gmail.com"
+var senha = "senhapadrao"
+
+Antes de tudo, declarei essas duas variáveis fixas para serem utilizadas nas estruturas de seleção a seguir:
+Sendo assim, mais para frente no código se eu digitar no input de email diferente de "refugeeanfitrian@gmail.com" e no input de senha diferente de "senhapadrao", o acesso será negado.
+
 form.addEventListener("submit", () =>: adiciona uma escuta de envio, que faz com que as validações que são realizadas
 por meio das estrturas de seleção(if, else if, else) que estão dentro dessa função, só irão acontecer se clicar no botão "enviar".
 
