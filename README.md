@@ -1,6 +1,7 @@
 Site Refugee Home - Trabalho Ricardo 08/06 - Universidade Vila Velha ES
 
 var email = "refugeeanfitrian@gmail.com"
+
 var senha = "senhapadrao"
 
 Antes de tudo, declarei essas duas variáveis fixas para serem utilizadas nas estruturas de seleção a seguir:
